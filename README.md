@@ -1,2 +1,2 @@
-# appcuaca.github.io
+# weather-app
  weather app with vanilla javascript
